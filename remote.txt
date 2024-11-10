@@ -1,1 +1,1 @@
-this is fetch file from remote
+this is pull file from remote
