@@ -1,2 +1,6 @@
 this is pull file from remote
+<<<<<<< Updated upstream
 make some changes in the repo of github url
+=======
+new local working contenet in remote.txt file
+>>>>>>> Stashed changes
